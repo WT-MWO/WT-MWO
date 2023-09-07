@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on structural engineering scripting, Revit and Dynamo related things.
+- 🌱 I’m currently learning a lot of things
+- 📫 How to reach me: you can find me on LinkedIn.
 <!--
 **WT-MWO/WT-MWO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
