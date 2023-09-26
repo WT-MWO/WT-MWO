@@ -1,4 +1,5 @@
 ### Hi there 👋
+I've merged my two accounts into this new one.
 - 🔭 I’m currently working on structural engineering scripting, Revit and Dynamo related things.
 - 🌱 I’m currently learning Python and some C#.
 - 📫 How to reach me: you can find me on LinkedIn.
