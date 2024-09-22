@@ -1,6 +1,6 @@
 ### Hi there 👋
 I've merged my two accounts into this new one.
-- :construction_worker: I'm civil engineer specialising in structural = a lot of math and coding.
+- :construction_worker: I'm civil engineer specialising in structural design = a lot of math.
 - 🔭 I’m working on structural engineering scripting, calculations and Autodesk Revit related things.
 - 🌱 I’m learning how to code and I'm serious about it :neutral_face:.
 - 📫 How to reach me: you can find me on [LinkedIn.](https://www.linkedin.com/in/mwolinski/)
