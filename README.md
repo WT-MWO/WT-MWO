@@ -3,7 +3,7 @@ I've merged my two accounts into this new one.
 - :construction_worker: I'm structural engineer specialising in structural design which means a lot of math and coding.
 - 🔭 I’m working on structural engineering scripting, calculations and Autodesk Revit related things.
 - 🌱 I’m learning how to code and I'm serious about it :neutral_face:.
-- 📫 How to reach me: you can find me on LinkedIn.
+- 📫 How to reach me: you can find me on [LinkedIn.](https://www.linkedin.com/in/mwolinski/)
 <!--
 **WT-MWO/WT-MWO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
