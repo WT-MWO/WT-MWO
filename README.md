@@ -1,7 +1,7 @@
 ### Hi there 👋
 - :construction_worker: I'm civil engineer specialising in structural design.
 - Check my pyRebar for pyRevit extension if you use Revit 2024!
-- 🔭 I’m working on structural engineering scripting, calculations and Autodesk Revit related things.
+- 🔭 I’m working on structural engineering scripting, calculations.
 - 📫 How to reach me: you can find me on [LinkedIn.](https://www.linkedin.com/in/mwolinski/)
 <!--
 **WT-MWO/WT-MWO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
