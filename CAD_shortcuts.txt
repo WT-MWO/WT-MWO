@@ -1,0 +1,34 @@
+AUTOCAD_LT:
+
+Q,        *COPY
+W,        *PLINE
+E,         *MOVE
+R,         *OFFSET
+X,         *ERASE
+11,        *MIRROR
+33,        *ROTATE
+T,        *TRIM
+Z,         *STRETCH
+Y,        *EXTEND
+A,    *DIMLINEAR
+D,    *DIMALIGNED
+S,    *DIMCONTINUE
+MM,        *MATCHPROP
+
+
+AUTOCAD:
+Q,        *COPY
+W,        *PLINE
+E,         *MOVE
+R,         *OFFSET
+X,         *ERASE
+11,        *MIRROR
+33,        *ROTATE
+T,        *TRIM
+Z,         *STRETCH
+Y,        *EXTEND
+A,    *DIMLINEAR
+D,    *DIMALIGNED
+S,    *DIMCONTINUE
+MM,        *MATCHPROP
+
