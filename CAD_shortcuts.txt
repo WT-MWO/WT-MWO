@@ -32,3 +32,53 @@ D,    *DIMALIGNED
 S,    *DIMCONTINUE
 MM,        *MATCHPROP
 
+AUTOCAD_PL:
+W,        *PLINIA
+22,      *-KRESKUJ
+33,        *OBRÓĆ
+Q,         *KOPIUJ
+R,        *ODSUŃ
+E,       *PRZESUŃ
+T,        *UTNIJ
+U,       *UZGWŁAŚCIWOŚCI
+X,        *WYMAŻ
+Z,      *ROZCIĄGNIJ
+Y,       *WYDŁUŻ
+I,	*PRZESTRZWYM
+P, 	*PRZYKRYJ
+A,        *WYMLINIOWY
+S,        *WYMSZEREG
+D,        *WYMNORMALNY
+F,        *WYMKĄTOWY
+11,       *LUSTRO
+
+
+LUB------------------------
+W,        *PLINIA
+22,      *-KRESKUJ
+33,        *OBRÓĆ
+Q,         *KOPIUJ
+R,        *ODSUŃ
+E,       *PRZESUŃ
+T,        *UTNIJ
+U,       *UZGWŁAŚCIWOŚCI
+X,        *WYMAŻ
+Z,      *ROZCIĄGNIJ
+Y,       *WYDŁUŻ
+I,	*PRZESTRZWYM
+P, 	*PRZYKRYJ
+A,        *WYMLINIOWY
+S,        *WYMSZEREG
+D,        *WYMNORMALNY
+F,        *WYMKĄTOWY
+11,       *LUSTRO
+XL,       *PROSTA
+DI,        *ODLEG
+ZA,	*ZAOKRĄGL
+RC,	*REVCLOUD
+EB,       *REFEDIT
+SK,	*SKALA
+XX, *ROZBIJ
+PK, *rectang
+
+
