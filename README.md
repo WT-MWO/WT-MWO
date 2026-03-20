@@ -1,8 +1,8 @@
 ### Hi there 👋
 - :construction_worker: I'm structural engineer with passion to coding.
 - Check my pyRebar for pyRevit extension, if you use Revit for reinforcement modelling. I don't work in Revit that often anymore but I try to make it viable for recent Revit and pyRevit version.
-- Youtube and more structural coding examples coming soon!
-- 📫 How to reach me: you can find me on [LinkedIn.](https://www.linkedin.com/in/mwolinski/)
+- Check my Autodesk Robot Structural API Python wrapper!
+- You can find me on [LinkedIn.](https://www.linkedin.com/in/mwolinski/)
 <!--
 **WT-MWO/WT-MWO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
